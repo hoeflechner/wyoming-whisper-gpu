@@ -1,8 +1,5 @@
 Wyoming Whisper docker container with GPU support for Home-Assistant
 
-[![Publish Docker image](https://github.com/hoeflechner/wyoming-whisper-gpu/actions/workflows/docker-image.yml/badge.svg)](https://github.com/slackr31337/wyoming-whisper-gpu/actions/workflows/docker-image.yml)
 
-
-
-docker pull ghcr.io/hoeflechner/wyoming-whisper-gpu:latest
+docker pull ghcr.io/hoeflechner/wyoming-whisper-gpu:main
 
